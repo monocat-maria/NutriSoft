@@ -17,6 +17,7 @@ public class Recomendacoes extends javax.swing.JFrame {
     public Recomendacoes() {
         initComponents();
         this.setLocationRelativeTo(null);
+        this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
     }
 
     /**

@@ -20,6 +20,7 @@ public class Imc extends javax.swing.JFrame {
     public Imc() {
         initComponents();
         this.setLocationRelativeTo(null);
+        this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
     }
 
     /**

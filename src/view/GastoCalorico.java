@@ -20,6 +20,7 @@ public class GastoCalorico extends javax.swing.JFrame {
     public GastoCalorico() {
         initComponents();
         this.setLocationRelativeTo(null);
+        this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
     }
 
     /**
